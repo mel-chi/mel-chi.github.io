@@ -1,6 +1,6 @@
 ---
 title: DRAG & DROP
-subtitle: ¼¼»ó¿¡¼­ Á¦ÀÏ ½¬¿î DRAG & DROP ÆíÁı ¹æ¹ı!
+subtitle: ì„¸ìƒì—ì„œ ì œì¼ ì‰¬ìš´ DRAG & DROP í¸ì§‘ ë°©ë²•!
 layout: default
 modal-id: 2
 date: 2021-03-28
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: March 2021
 client: Start Bootstrap
 category: Web Development
-description: ¼¼»ó¿¡¼­ Á¦ÀÏ ½¬¿î DRAG & DROP ÆíÁı ¹æ¹ı! Á÷°üÀûÀÌ°í ½ÉÇÃÇÑ ¹æ¹ıÀ¸·Î ÆíÁıÇÒ¼ö ÀÖ¾î¿ä!
+description: ì„¸ìƒì—ì„œ ì œì¼ ì‰¬ìš´ DRAG & DROP í¸ì§‘ ë°©ë²•! ì§ê´€ì ì´ê³  ì‹¬í”Œí•œ ë°©ë²•ìœ¼ë¡œ í¸ì§‘í• ìˆ˜ ìˆì–´ìš”!
 
 ---
