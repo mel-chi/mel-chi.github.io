@@ -1,5 +1,5 @@
 ---
-title: 무료 아이템
+title: 다양한 아이템
 subtitle: 전문가 수준의 움직이는 스티커와 필터효과가 무료!
 layout: default
 modal-id: 3
