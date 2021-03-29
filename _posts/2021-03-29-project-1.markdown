@@ -1,5 +1,5 @@
 ---
-title: 나만의 영상
+title: 나도 제작자
 subtitle: 크리에이터처럼 나만의 영상 편집하기!
 layout: default
 modal-id: 1
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: March 2021
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 크리에이터처럼 나만의 영상 편집하기! 누구나 손쉽게 전문가급 영상을 제작할 수 있어요!
 
 ---

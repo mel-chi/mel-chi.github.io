@@ -1,0 +1,15 @@
+---
+title: 각종 테마
+subtitle: 테마에 맞게 돌잔치, 홍보, 기념일 영상 제작!
+layout: default
+modal-id: 6
+date: 2021-03-24
+img: 6.png
+thumbnail: 6_thumb.png
+alt: image-alt
+project-date: March 2021
+client: Start Bootstrap
+category: Web Development
+description: 테마에 맞게 돌잔치, 홍보, 기념일 영상 제작은 기본! 손쉽게 영상으로 제작하려면 멸치!
+
+---

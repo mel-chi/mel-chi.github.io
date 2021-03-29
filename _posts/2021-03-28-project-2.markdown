@@ -1,0 +1,15 @@
+---
+title: DRAG & DROP
+subtitle: 세상에서 제일 쉬운 DRAG & DROP 편집 방법!
+layout: default
+modal-id: 2
+date: 2021-03-28
+img: 2.png
+thumbnail: 2_thumb.png
+alt: image-alt
+project-date: March 2021
+client: Start Bootstrap
+category: Web Development
+description: 세상에서 제일 쉬운 DRAG & DROP 편집 방법! 직관적이고 심플한 방법으로 편집할수 있어요!
+
+---
