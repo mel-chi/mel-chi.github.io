@@ -2,8 +2,10 @@
 color:
   #primary: fed136
   #secondary: fec503 
-  primary: 4dbee3
-  secondary: 33cccc   
+  #primary: 4dbee3
+  #secondary: 33cccc   
+  primary: ee5196
+  secondary: ff99cc
   secondary-dark: 333
   muted: 777
 
