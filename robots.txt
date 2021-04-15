@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: http://mel-chi.co.kr/sitemap.xml
