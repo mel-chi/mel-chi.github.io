@@ -45,16 +45,18 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://www.mel-chi.co.kr
-  - title: facebook
-    url: http://www.mel-chi.co.kr
-  - title: stack-overflow
-    url: http://www.mel-chi.co.kr
-  - title: bitbucket 
-    url: http://www.mel-chi.co.kr
-  - title: github
-    url: http://www.mel-chi.co.kr
+  - title: youtube
+    url: https://www.youtube.com/channel/UCZZJvdsftGiSWK4UlJcZADg
+#  - title: twitter
+#    url: http://www.mel-chi.co.kr
+#  - title: facebook
+#    url: http://www.mel-chi.co.kr
+#  - title: stack-overflow
+#    url: http://www.mel-chi.co.kr
+#  - title: bitbucket 
+#    url: http://www.mel-chi.co.kr
+#  - title: github
+#    url: http://www.mel-chi.co.kr
 
 # Postal address (add as many lines as necessary)
 address:
